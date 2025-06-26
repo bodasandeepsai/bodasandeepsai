@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Boda Sandeep sai</h1>
 <h3 align="center">A passionate full-stack developer</h3>
 
-- 🔭 I’m currently working on **Edupower(Ngo website)**
 
 - 📫 How to reach me **bodasandeepsaiofficial@gmail.com**
 
